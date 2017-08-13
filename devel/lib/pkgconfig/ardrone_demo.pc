@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/devel
+
+Name: ardrone_demo
+Description: Description of ardrone_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aswath/ros/devel/lib 
+Requires: actionlib_msgs geometry_msgs

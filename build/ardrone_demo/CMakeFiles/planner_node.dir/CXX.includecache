@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aswath/ros/src/ardrone_demo/src/planner.cpp
+ompl/base/SpaceInformation.h
+-
+ompl/base/spaces/SE3StateSpace.h
+-
+ompl/geometric/planners/rrt/RRTConnect.h
+-
+ompl/geometric/SimpleSetup.h
+-
+ompl/config.h
+-
+iostream
+-
+vector
+-
+planner.h
+/home/aswath/ros/src/ardrone_demo/src/planner.h
+
+/home/aswath/ros/src/ardrone_demo/src/planner.h
+ompl/base/SpaceInformation.h
+-
+ompl/base/spaces/SE3StateSpace.h
+-
+ompl/geometric/planners/rrt/RRTConnect.h
+-
+ompl/geometric/SimpleSetup.h
+-
+ompl/config.h
+-
+iostream
+-
+vector
+-
+

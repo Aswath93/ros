@@ -1,0 +1,40 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/opencv_apps_generate_messages_py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RectArrayStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RectArray.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RotatedRectStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_FaceArray.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Rect.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_FlowStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_FaceArrayStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_ContourArray.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_CircleArrayStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_MomentArray.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Face.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_LineArrayStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_FlowArrayStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Circle.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RotatedRectArrayStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Moment.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Line.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Point2D.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_ContourArrayStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Point2DArrayStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Point2DArray.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RotatedRect.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_FlowArray.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Contour.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_LineArray.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_MomentArrayStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Point2DStamped.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Flow.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_CircleArray.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Size.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RotatedRectArray.py"
+  "/home/aswath/ros/devel/lib/python2.7/dist-packages/opencv_apps/msg/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang)
+  INCLUDE(CMakeFiles/opencv_apps_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

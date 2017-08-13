@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = "/home/aswath/ros/src/opencv_apps/msg/Point2D.msg;/home/aswath/ros/src/opencv_apps/msg/Point2DStamped.msg;/home/aswath/ros/src/opencv_apps/msg/Point2DArray.msg;/home/aswath/ros/src/opencv_apps/msg/Point2DArrayStamped.msg;/home/aswath/ros/src/opencv_apps/msg/Rect.msg;/home/aswath/ros/src/opencv_apps/msg/RectArray.msg;/home/aswath/ros/src/opencv_apps/msg/RectArrayStamped.msg;/home/aswath/ros/src/opencv_apps/msg/Flow.msg;/home/aswath/ros/src/opencv_apps/msg/FlowStamped.msg;/home/aswath/ros/src/opencv_apps/msg/FlowArray.msg;/home/aswath/ros/src/opencv_apps/msg/FlowArrayStamped.msg;/home/aswath/ros/src/opencv_apps/msg/RectArrayStamped.msg;/home/aswath/ros/src/opencv_apps/msg/Size.msg;/home/aswath/ros/src/opencv_apps/msg/Face.msg;/home/aswath/ros/src/opencv_apps/msg/FaceArray.msg;/home/aswath/ros/src/opencv_apps/msg/FaceArrayStamped.msg;/home/aswath/ros/src/opencv_apps/msg/Line.msg;/home/aswath/ros/src/opencv_apps/msg/LineArray.msg;/home/aswath/ros/src/opencv_apps/msg/LineArrayStamped.msg;/home/aswath/ros/src/opencv_apps/msg/RotatedRect.msg;/home/aswath/ros/src/opencv_apps/msg/RotatedRectStamped.msg;/home/aswath/ros/src/opencv_apps/msg/RotatedRectArray.msg;/home/aswath/ros/src/opencv_apps/msg/RotatedRectArrayStamped.msg;/home/aswath/ros/src/opencv_apps/msg/Circle.msg;/home/aswath/ros/src/opencv_apps/msg/CircleArray.msg;/home/aswath/ros/src/opencv_apps/msg/CircleArrayStamped.msg;/home/aswath/ros/src/opencv_apps/msg/Moment.msg;/home/aswath/ros/src/opencv_apps/msg/MomentArray.msg;/home/aswath/ros/src/opencv_apps/msg/MomentArrayStamped.msg;/home/aswath/ros/src/opencv_apps/msg/Contour.msg;/home/aswath/ros/src/opencv_apps/msg/ContourArray.msg;/home/aswath/ros/src/opencv_apps/msg/ContourArrayStamped.msg"
+services_str = ""
+pkg_name = "opencv_apps"
+dependencies_str = "std_msgs"
+langs = "gencpp;genlisp;genpy"
+dep_include_paths_str = "opencv_apps;/home/aswath/ros/src/opencv_apps/msg;std_msgs;/opt/ros/indigo/share/std_msgs/cmake/../msg"
+PYTHON_EXECUTABLE = "/usr/bin/python"
+package_has_static_sources = '' == 'TRUE'
+genmsg_check_deps_script = "/opt/ros/indigo/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"

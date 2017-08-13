@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: ardrone_autonomy
+Description: Description of ardrone_autonomy
+Version: 1.4.1
+Cflags: -I/home/aswath/ros/install/include
+Libs: -L/home/aswath/ros/install/lib 
+Requires: roscpp image_transport message_runtime sensor_msgs std_srvs tf camera_info_manager

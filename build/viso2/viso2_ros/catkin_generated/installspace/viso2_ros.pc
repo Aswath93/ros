@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: viso2_ros
+Description: Description of viso2_ros
+Version: 0.0.1
+Cflags: -I/home/aswath/ros/install/include
+Libs: -L/home/aswath/ros/install/lib 
+Requires: 

@@ -1,0 +1,1 @@
+g++  planner.cpp -L/usr/include/ompl-1.2.1-Source/build/Release/lib -lompl -L/usr/ -lboost_system -std=c++11

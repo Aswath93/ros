@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "autonomous_quadrotor")
+set(autonomous_quadrotor_MAINTAINER "Alessio <unknown@unknown.com>")
+set(autonomous_quadrotor_DEPRECATED "")
+set(autonomous_quadrotor_VERSION "0.1.0")
+set(autonomous_quadrotor_BUILD_DEPENDS )
+set(autonomous_quadrotor_RUN_DEPENDS )
+set(autonomous_quadrotor_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/devel
+
+Name: depthimage_to_laserscan
+Description: Description of depthimage_to_laserscan
+Version: 1.0.7
+Cflags: -I/home/aswath/ros/devel/include -I/home/aswath/ros/src/depthimage_to_laserscan/include
+Libs: -L/home/aswath/ros/devel/lib -lDepthImageToLaserScan -lDepthImageToLaserScanROS -lDepthImageToLaserScanNodelet
+Requires: dynamic_reconfigure image_geometry image_transport nodelet roscpp sensor_msgs

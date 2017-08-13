@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "caminfo")
+set(caminfo_MAINTAINER "aswath <aswath@todo.todo>")
+set(caminfo_DEPRECATED "")
+set(caminfo_VERSION "0.0.0")
+set(caminfo_BUILD_DEPENDS "camera_info_manager" "roscpp" "sensor_msgs" "rosmsg")
+set(caminfo_RUN_DEPENDS "camera_info_manager" "roscpp" "sensor_msgs" "rosmsg")
+set(caminfo_BUILDTOOL_DEPENDS "catkin")

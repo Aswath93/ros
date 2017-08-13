@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "reconstruction")
+set(reconstruction_MAINTAINER "vishnu <vishnu@todo.todo>")
+set(reconstruction_DEPRECATED "")
+set(reconstruction_VERSION "0.0.0")
+set(reconstruction_BUILD_DEPENDS "cv_bridge" "image_transport")
+set(reconstruction_RUN_DEPENDS "cv_bridge" "image_transport")
+set(reconstruction_BUILDTOOL_DEPENDS "catkin")

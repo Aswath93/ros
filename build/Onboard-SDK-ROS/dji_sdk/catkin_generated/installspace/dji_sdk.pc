@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: dji_sdk
+Description: Description of dji_sdk
+Version: 0.1.9
+Cflags: -I/home/aswath/ros/install/include
+Libs: -L/home/aswath/ros/install/lib 
+Requires: message_runtime actionlib actionlib_msgs geometry_msgs nav_msgs std_msgs dji_sdk_lib

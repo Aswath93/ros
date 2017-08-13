@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aswath/ros/devel/include/dji_motion/target_pose.h
+string
+-
+vector
+-
+map
+-
+ros/types.h
+-
+ros/serialization.h
+-
+ros/builtin_message_traits.h
+-
+ros/message_operations.h
+-
+
+/home/aswath/ros/src/dji_motion/src/send_way_point.cpp
+ros/ros.h
+-
+stdio.h
+-
+dji_motion/target_pose.h
+-
+std_msgs/Bool.h
+-
+sensor_msgs/Range.h
+-
+vector
+-
+

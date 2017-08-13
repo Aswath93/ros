@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "aswath")
+set(aswath_MAINTAINER "aswath <sharikumar@wpi.edu>")
+set(aswath_DEPRECATED "")
+set(aswath_VERSION "0.0.0")
+set(aswath_BUILD_DEPENDS "roscpp")
+set(aswath_RUN_DEPENDS "roscpp")
+set(aswath_BUILDTOOL_DEPENDS "catkin")

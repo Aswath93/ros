@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: libviso2
+Description: Description of libviso2
+Version: 0.0.1
+Cflags: -I/home/aswath/ros/install/include
+Libs: -L/home/aswath/ros/install/lib -lviso2
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/devel
+
+Name: aswath
+Description: Description of aswath
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aswath/ros/devel/lib 
+Requires: 

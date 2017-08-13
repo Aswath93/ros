@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aswath/ros/devel/include/maidbot_laser/position.h
+string
+-
+vector
+-
+map
+-
+ros/types.h
+-
+ros/serialization.h
+-
+ros/builtin_message_traits.h
+-
+ros/message_operations.h
+-
+
+/home/aswath/ros/src/maidbot_laser/src/laser_node.cpp
+ros/ros.h
+-
+stdio.h
+-
+sensor_msgs/LaserScan.h
+-
+tf/transform_broadcaster.h
+-
+maidbot_laser/position.h
+-
+

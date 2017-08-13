@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: hector_moveit
+Description: Description of hector_moveit
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/aswath/ros/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/devel
+
+Name: guidance
+Description: Description of guidance
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/aswath/ros/devel/lib 
+Requires: 

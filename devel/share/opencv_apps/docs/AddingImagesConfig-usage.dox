@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="adding_images" pkg="adding_images" type="adding_images">
+  <param name="use_camera_info" type="bool" value="True" />
+  <param name="alpha" type="double" value="0.5" />
+  <param name="gamma" type="double" value="0.0" />
+</node>
+\endverbatim
+

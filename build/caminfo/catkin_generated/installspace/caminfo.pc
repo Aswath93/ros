@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: caminfo
+Description: Description of caminfo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aswath/ros/install/lib 
+Requires: camera_info_manager roscpp rosmsg sensor_msgs

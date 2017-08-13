@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "quad_gazebo")
+set(quad_gazebo_MAINTAINER "wil <wil@wilselby.com>")
+set(quad_gazebo_DEPRECATED "")
+set(quad_gazebo_VERSION "0.0.0")
+set(quad_gazebo_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(quad_gazebo_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(quad_gazebo_BUILDTOOL_DEPENDS "catkin")

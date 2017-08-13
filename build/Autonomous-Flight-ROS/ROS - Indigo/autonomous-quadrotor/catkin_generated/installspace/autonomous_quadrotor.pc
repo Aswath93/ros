@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: autonomous_quadrotor
+Description: Description of autonomous_quadrotor
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/aswath/ros/install/lib 
+Requires: 

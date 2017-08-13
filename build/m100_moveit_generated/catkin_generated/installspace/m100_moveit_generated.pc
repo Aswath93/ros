@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: m100_moveit_generated
+Description: Description of m100_moveit_generated
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/aswath/ros/install/lib 
+Requires: 

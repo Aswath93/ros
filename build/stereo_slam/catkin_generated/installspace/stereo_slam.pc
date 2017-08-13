@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: stereo_slam
+Description: Description of stereo_slam
+Version: 0.0.1
+Cflags: -I/home/aswath/ros/install/include
+Libs: -L/home/aswath/ros/install/lib 
+Requires: message_runtime

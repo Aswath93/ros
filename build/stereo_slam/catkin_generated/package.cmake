@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "stereo_slam")
+set(stereo_slam_MAINTAINER "Pep Lluis Negre <pl.negre@uib.cat>")
+set(stereo_slam_DEPRECATED "")
+set(stereo_slam_VERSION "0.0.1")
+set(stereo_slam_BUILD_DEPENDS "roscpp" "nav_msgs" "tf" "sensor_msgs" "geometry_msgs" "image_transport" "message_filters" "message_generation" "cv_bridge" "image_geometry" "std_srvs" "libg2o" "libhaloc" "pcl_ros" "cmake_modules" "tf_conversions")
+set(stereo_slam_RUN_DEPENDS "roscpp" "nav_msgs" "tf" "sensor_msgs" "geometry_msgs" "image_transport" "message_filters" "message_runtime" "cv_bridge" "image_geometry" "std_srvs" "libg2o" "libhaloc" "pcl_ros" "tf_conversions")
+set(stereo_slam_BUILDTOOL_DEPENDS "catkin")

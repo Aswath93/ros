@@ -1,0 +1,2 @@
+Guidance-SDK-ROS:Onboard-SDK-ROS/dji_sdk:Onboard-SDK-ROS/dji_sdk_demo:Onboard-SDK-ROS/dji_sdk_dji2mav:Onboard-SDK-ROS/dji_sdk_lib:Onboard-SDK-ROS/dji_sdk_web_groundstation:ardrone_demo:dji_motion:tum_ardrone:viso2/libviso2:viso2/viso2:viso2/viso2_ros
+-DCATKIN_DEVEL_PREFIX=/home/aswath/ros/devel -DCMAKE_INSTALL_PREFIX=/home/aswath/ros/install -G Unix Makefiles

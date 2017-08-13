@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: opencv_apps
+Description: Description of opencv_apps
+Version: 1.11.14
+Cflags: -I/home/aswath/ros/install/include
+Libs: -L/home/aswath/ros/install/lib -lopencv_apps
+Requires: std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/devel
+
+Name: my_pcl_tutorial
+Description: Description of my_pcl_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aswath/ros/devel/lib 
+Requires: 

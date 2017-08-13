@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/devel
+
+Name: quadrotore2_moveit
+Description: Description of quadrotore2_moveit
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/aswath/ros/devel/lib 
+Requires: 

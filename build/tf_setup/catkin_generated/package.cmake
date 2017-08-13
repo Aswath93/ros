@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "tf_setup")
+set(tf_setup_MAINTAINER "aswath <aswath@todo.todo>")
+set(tf_setup_DEPRECATED "")
+set(tf_setup_VERSION "0.0.0")
+set(tf_setup_BUILD_DEPENDS "geometry_msgs" "roscpp" "tf")
+set(tf_setup_RUN_DEPENDS "geometry_msgs" "roscpp" "tf")
+set(tf_setup_BUILDTOOL_DEPENDS "catkin")

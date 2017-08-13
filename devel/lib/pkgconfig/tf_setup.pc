@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/devel
+
+Name: tf_setup
+Description: Description of tf_setup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aswath/ros/devel/lib 
+Requires: 

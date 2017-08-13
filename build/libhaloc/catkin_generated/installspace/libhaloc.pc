@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: libhaloc
+Description: Description of libhaloc
+Version: 0.0.1
+Cflags: -I/home/aswath/ros/install/include
+Libs: -L/home/aswath/ros/install/lib -lhaloc
+Requires: 

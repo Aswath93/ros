@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g   -shared -Wl,-soname,libardrone_demo.so -o /home/aswath/ros/devel/lib/libardrone_demo.so CMakeFiles/ardrone_demo.dir/src/planner.cpp.o CMakeFiles/ardrone_demo.dir/src/planner_node.cpp.o 

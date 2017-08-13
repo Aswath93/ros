@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: tum_ardrone
+Description: Description of tum_ardrone
+Version: 0.0.0
+Cflags: -I/home/aswath/ros/install/include
+Libs: -L/home/aswath/ros/install/lib 
+Requires: message_runtime std_msgs ardrone_autonomy

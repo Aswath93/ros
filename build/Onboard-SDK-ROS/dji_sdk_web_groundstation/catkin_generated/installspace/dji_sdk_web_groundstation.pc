@@ -1,0 +1,8 @@
+prefix=/home/aswath/ros/install
+
+Name: dji_sdk_web_groundstation
+Description: Description of dji_sdk_web_groundstation
+Version: 0.1.9
+Cflags: -I/home/aswath/ros/install/include
+Libs: -L/home/aswath/ros/install/lib 
+Requires: actionlib_msgs std_msgs dji_sdk
